@@ -1,0 +1,2 @@
+just python 3.7 and above
+pytube lates version 
